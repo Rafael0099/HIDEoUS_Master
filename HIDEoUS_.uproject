@@ -8,5 +8,8 @@
 			"Name": "VivoxVoiceChat",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
